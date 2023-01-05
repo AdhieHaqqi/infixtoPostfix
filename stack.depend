@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1672731455 source:c:\users\haqqi ramadhani s\documents\! kuliah\semester 3\! tubes std daw x nasy\stack\stack\main.cpp
+	"stack.h"
+
+1672736533 c:\users\haqqi ramadhani s\documents\! kuliah\semester 3\! tubes std daw x nasy\stack\stack\stack.h
+	<iostream>
+
+1672731550 source:c:\users\haqqi ramadhani s\documents\! kuliah\semester 3\! tubes std daw x nasy\stack\stack\stack.cpp
+	"stack.h"
+
+1672767824 source:d:\stack\stack\main.cpp
+	"stack.h"
+
+1672770714 d:\stack\stack\stack.h
+	<iostream>
+	<math.h>
+
+1672770805 source:d:\stack\stack\stack.cpp
+	"stack.h"
+
+1672842683 source:c:\users\haqqi ramadhani s\downloads\stack\stack.cpp
+	"stack.h"
+
+1672842640 c:\users\haqqi ramadhani s\downloads\stack\stack.h
+	<iostream>
+	<math.h>
+
+1672841503 source:c:\users\haqqi ramadhani s\downloads\stack\main.cpp
+	"stack.h"
+
+1672841503 source:c:\users\haqqi ramadhani s\documents\! kuliah\stack\main.cpp
+	"stack.h"
+
+1672842640 c:\users\haqqi ramadhani s\documents\! kuliah\stack\stack.h
+	<iostream>
+	<math.h>
+
+1672842683 source:c:\users\haqqi ramadhani s\documents\! kuliah\stack\stack.cpp
+	"stack.h"
+
+1672841503 source:c:\users\haqqi ramadhani s\documents\! kuliah\semester 3\! tubes std daw x nasy\didaw gang_adhie haqqi r.s_1301213312\stack\main.cpp
+	"stack.h"
+
+1672842640 c:\users\haqqi ramadhani s\documents\! kuliah\semester 3\! tubes std daw x nasy\didaw gang_adhie haqqi r.s_1301213312\stack\stack.h
+	<iostream>
+	<math.h>
+
+1672842683 source:c:\users\haqqi ramadhani s\documents\! kuliah\semester 3\! tubes std daw x nasy\didaw gang_adhie haqqi r.s_1301213312\stack\stack.cpp
+	"stack.h"
+
